@@ -21,7 +21,7 @@ Feel free to reach out for collaboration, discussions, or just to say hello!
 
 ## 📊 GitHub Stats
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=N1ckk&show_icons=true&hide_title=true&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ckk&layout=compact)](https://github.com/N1ckk)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ckk&layout=compact)
 
 ## 🛠️ Projects
 - [**Car Service**](https://github.com/N1ckk/car_service): Development of a desktop add-on for monitoring the financial aspect of purchasing and consumption of auto parts in a car service center, including the design and development of a database. Additionally, acquired knowledge in new technologies: Windows Forms, C#, MySQL
