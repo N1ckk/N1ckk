@@ -1,16 +1,29 @@
-### Hi there 👋
+# Привет! 👋
 
-<!--
-**N1ckk/N1ckk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут [Твое Имя]. Я [Твоя Профессия] с интересом к [Твои Интересы].
 
-Here are some ideas to get you started:
+## 🔧 Навыки и Технологии
+- [Навык 1]
+- [Навык 2]
+- [Навык 3]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 В данный момент изучаю
+- [Технология 1]
+- [Технология 2]
+
+## 📫 Как со мной связаться
+- [Email]
+- [Ссылка на LinkedIn]
+- [Профиль Twitter]
+
+## 📈 Статистика GitHub
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&hide=prs)
+
+## 📚 Проекты
+- [Проект 1]
+- [Проект 2]
+
+## 🤝 Открыт к сотрудничеству
+Если у вас есть идеи или проекты, к которым хотите, чтобы я присоединился, дайте знать!
+
+[![Посетители профиля](https://visitor-badge.glitch.me/badge?page_id=YourUsername.YourUsername)](https://github.com/YourUsername)
