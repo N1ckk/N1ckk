@@ -1,29 +1,33 @@
 # Привет! 👋
 
-Меня зовут [Твое Имя]. Я [Твоя Профессия] с интересом к [Твои Интересы].
+# Hello there! 👋
 
-## 🔧 Навыки и Технологии
-- [Навык 1]
-- [Навык 2]
-- [Навык 3]
+My name is Nikita. I am a [Your Profession] with a passion for [Your Interests].
 
-## 🌱 В данный момент изучаю
-- [Технология 1]
-- [Технология 2]
+## 🔧 Skills and Technologies
+- HTML and CSS;
+- C# OOP;
+- ASP .NET Core/ASP .NET Core MVC;
+- MySQL;
+- EntityFramework.
 
-## 📫 Как со мной связаться
-- [Email]
-- [Ссылка на LinkedIn]
-- [Профиль Twitter]
+## 🌱 Currently Learning
+- [Technology 1]
+- [Technology 2]
 
-## 📈 Статистика GitHub
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&hide=prs)
+## 📫 How to Reach Me
+- retenexl@gmail.com;
+- [LinkedIn Profile](LinkedInProfileLink)
+- [Twitter Profile](TwitterProfileLink)
 
-## 📚 Проекты
-- [Проект 1]
-- [Проект 2]
+## 📈 GitHub Statistics
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&hide=prs)
 
-## 🤝 Открыт к сотрудничеству
-Если у вас есть идеи или проекты, к которым хотите, чтобы я присоединился, дайте знать!
+## 📚 Projects
+- [Project 1]
+- [Project 2]
 
-[![Посетители профиля](https://visitor-badge.glitch.me/badge?page_id=YourUsername.YourUsername)](https://github.com/YourUsername)
+## 🤝 Open to Collaboration
+If you have any ideas or projects you'd like me to be a part of, feel free to reach out!
+
+[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=YourUsername.YourUsername)](https://github.com/YourUsername)
