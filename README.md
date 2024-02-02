@@ -29,5 +29,5 @@ Feel free to reach out for collaboration, discussions, or just to say hello!
 ## 🚀 Open Source Contributions
 I actively contribute to open-source projects and am passionate about making a positive impact in the developer community.
 
-[![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=N1ckk.N1ckk)](https://github.com/N1ckk)
+![Profile Visitors](https://komarev.com/ghpvc/?username=N1ckk)
 
