@@ -24,9 +24,10 @@ Feel free to reach out for collaboration, discussions, or just to say hello!
 
 ## 🛠️ Projects
 - [**Car Service**](https://github.com/N1ckk/car_service): Development of a desktop add-on for monitoring the financial aspect of purchasing and consumption of auto parts in a car service center, including the design and development of a database. Additionally, acquired knowledge in new technologies: Windows Forms, C#, MySQL
-- [**Jewelry Store**](Link to Task Management Repo): Utilizing HTML for markup, CSS and Bootstrap for page styling, C# as the server-side language, MySQL for database development, and Entity Framework for data access and query processing. All implemented through ASP.NET Core MVC.
+- [**Jewelry Store**](https://github.com/N1ckk/jewelry_store): Utilizing HTML for markup, CSS and Bootstrap for page styling, C# as the server-side language, MySQL for database development, and Entity Framework for data access and query processing. All implemented through ASP.NET Core MVC.
 
 ## 🚀 Open Source Contributions
 I actively contribute to open-source projects and am passionate about making a positive impact in the developer community.
 
-[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=N1ckk.N1ckk)](https://github.com/N1ckk)
+[![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=N1ckk.N1ckk)](https://github.com/N1ckk)
+
