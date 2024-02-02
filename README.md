@@ -13,9 +13,9 @@ I am a web developer with experience in HTML and CSS for web page markup and sty
 I am continuously expanding my knowledge and skills, exploring new technologies, and staying up-to-date with the latest trends in web development.
 
 ## 📫 Let's Connect!
-[![Connect](https://img.shields.io/badge/Connect-N1ckk-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%D0%BD%D0%B8%D0%BA%D0%B8%D1%82%D0%B0-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2-573bb7261/)
-[![Connect](https://img.shields.io/badge/Connect-n1cksm-blue?style=for-the-badge&logo=telegram)](https://t.me/n1cksm)
-[![Connect](https://img.shields.io/badge/Connect-retenexl%40gmail.com-green?style=for-the-badge&logo=mail.ru)](mailto:retenexl@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%D0%BD%D0%B8%D0%BA%D0%B8%D1%82%D0%B0-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2-573bb7261/)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/n1cksm)
+[![Email](https://img.shields.io/badge/-Email-green?style=for-the-badge&logo=mail.ru)](mailto:retenexl@gmail.com)
 
 Feel free to reach out for collaboration, discussions, or just to say hello!
 
