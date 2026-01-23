@@ -4,7 +4,7 @@ I am a web developer with experience in HTML and CSS for web page markup and sty
 
 ## 💻 Technical Skills
 - **Frontend Development:** HTML, CSS, Bootstrap
-- **Backend Development:** C# (3 years), Object-Oriented Programming (OOP) principles
+- **Backend Development:** C# (4 years), Object-Oriented Programming (OOP) principles
 - **Database Design:** MySQL, MS SQL, MongoDB
 - **Web Frameworks:** ASP.NET Core MVC, ASP.NET Core Web API
 - **Version Control:** Git
